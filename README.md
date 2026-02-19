@@ -1,1 +1,1 @@
-# .github
+# Rise above the noise
